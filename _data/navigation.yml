@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Methods"
-    url: /_pages/methods/
+    url: /methods/
       #- title: "Projects"
       #url: /_pages/projects/
   - title: "Publications"
-    url: /_pages/publications/
+    url: /publications/
       #- title: "Contact"
       #url: /_pages/contact/
       #- title: "Quick-Start Guide"

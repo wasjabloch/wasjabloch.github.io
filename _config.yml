@@ -162,7 +162,7 @@ footer:
 # Reading Files
 include:
   - _pages
-  - .htaccess
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -190,6 +190,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+    
 keep_files:
   - .git
   - .svn
@@ -288,7 +289,7 @@ compress_html:
 defaults:
   # _pages
   - scope:
-      path: "/_pages/"
+      path: "_pages"
       type: pages
     values:
       layout: splash
