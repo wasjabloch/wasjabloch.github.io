@@ -14,7 +14,7 @@ ermlaink: /publications/
 **Bloch, W.**, Metzger, S., Schurr, B., Yuan, X., Ratschbacher, L., Reuter, S., Xu, Q.,
 Zhao, J., Murodkulov, S., and Oimuhammadzoda, I. (2021) *The 2015–2017 Pamir Earthquake
 Sequence: Fore-, Main-, and Aftershocks, Seismotectonics and Fault Interaction.* Earth
-and Space Science Open Archive, <https://doi.org/10.1002/essoar.10508392.2>
+and Space Science Open Archive, <https://doi.org/10.1002/essoar.10508392.3>
 
 ## As first author
 
