@@ -5,18 +5,20 @@ title: "Publications"
 header:
   image: /assets/forest.JPG
 
-ermlaink: /publications/
+permlaink: /publications/
 
 ---
 
-## Preprints
+## As first author
+
+**Bloch, W.**, Audet, P. (2023) *PyRaysum: Software for Modeling Ray-theoretical Plane
+Body-wave Propagation in Dipping Anisotropic Media.* Seismica,
+<https://doi.org/10.26443/seismica.v2i1.220>
 
 **Bloch, W.**, Metzger, S., Schurr, B., Yuan, X., Ratschbacher, L., Reuter, S., Xu, Q.,
-Zhao, J., Murodkulov, S., and Oimuhammadzoda, I. (2021) *The 2015–2017 Pamir Earthquake
-Sequence: Fore-, Main-, and Aftershocks, Seismotectonics and Fault Interaction.* Earth
-and Space Science Open Archive, <https://doi.org/10.1002/essoar.10508392.3>
-
-## As first author
+Zhao, J., Murodkulov, S., and Oimuhammadzoda, I. (2022) *The 2015–2017 Pamir Earthquake
+Sequence: Fore-, Main-, and Aftershocks, Seismotectonics and Fault Interaction.*
+Geophysical Journal International, <https://doi.org/10.1093/gji/ggac473>
 
 **Bloch, W.**, Schurr, B., Yuan, X., Ratschbacher, L., Reuter, S., Kufner, S.-K., Xu,
 Q., Zhao, J. (2021). *Structure and stress field of the lithosphere between Pamir and
