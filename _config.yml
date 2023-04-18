@@ -135,6 +135,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wsja"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/wasja"
 
 # Site Footer
 footer:
