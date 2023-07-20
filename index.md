@@ -10,12 +10,12 @@ header:
 
 ---
 
-I am a postdoctoral researcher at the University of British Columbia, investigating
-continental fault zones, subduction zones and subsurface fluid processes using
-seismology. My research involves the the creation of highly resloved earthquake
-catalogs, earthquake characterization, receiver function processing, calclulation of
-seismic tomographies and software development to learn about earthquake and Earth's
-interior sturcture.
+I am a postdoctoral researcher at GFZ, GeoForschungszentrum Potsdam, investigating fault
+zones, subduction zones and subsurface fluid processes using seismology. My research
+involves detecting and locating earthquakes, computing earthquake magnitudes,
+determining fault plane solutions and moment tensors, receiver function processing,
+calculation of seismic tomographies and software development to learn about earthquakes
+and Earth's interior structure.
 
-I am previliged to live and work on the traditional, ancestral, unceded territories of
-the xʷməθkʷəy̓əm Musqueam.
+Until recently, I was privileged to live and work on the traditional, ancestral, unceded
+territories of the xʷməθkʷəy̓əm Musqueam.

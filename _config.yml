@@ -117,12 +117,12 @@ author:
   location         : 
   email            : 
   links:
-    - label: "Email"
+    - label: "wasja@wasjabloch.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wbloch@eoas.ubc.ca"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.eoas.ubc.ca/people/wasjabloch"
+      url: "mailto:wasja@wasjabloch.de"
+        #- label: "Website"
+        #icon: "fas fa-fw fa-link"
+        #url: "https://www.eoas.ubc.ca/people/wasjabloch"
     - label: "ORCiD"
       icon: "ai ai-orcid"
       url: "http://orcid.org/0000-0002-0341-4925"
