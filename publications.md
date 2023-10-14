@@ -11,6 +11,9 @@ permlaink: /publications/
 
 ## As first author
 
+**Bloch, W.**, Bostock, M. G., Audet, P. (2023) *A Cascadia Slab Model from receiver Functions.* Geochemistry, Geophysics, Geophysics, Geosystems,
+<https://doi.org/10.1029/2023GC011088>
+
 **Bloch, W.**, Audet, P. (2023) *PyRaysum: Software for Modeling Ray-theoretical Plane
 Body-wave Propagation in Dipping Anisotropic Media.* Seismica,
 <https://doi.org/10.26443/seismica.v2i1.220>
