@@ -6,7 +6,7 @@ classes: wide
 title: "About"
 author_profile: true
 header:
-  image: /assets/berlin.JPG
+  image: /assets/san_pedro.JPG
 
 ---
 

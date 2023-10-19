@@ -106,7 +106,7 @@ analytics:
 author:
   name             : #Wasja Bloch 
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  avatar           : #/assets/ich_less_saturated_2021.JPG 
+  avatar           : /assets/ich_less_saturated_2021.JPG 
   bio              : |+
     Seismologist
     
