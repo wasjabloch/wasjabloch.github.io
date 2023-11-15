@@ -64,3 +64,29 @@ Villarroel, E. Cruz, J. Valenzuela, D. Jaldín, G. González, ***W. Bloch***, P.
 A.  Shapiro (2018). *Fluids along the plate interface influencing the frictional regime
 of the Chilean subduction zone, northern Chile.* Geophysical Research Letters, 45(19),
 10-378. <https://doi.org/10.1029/2018GL079283>
+
+## Code
+Audet, P., and ***Bloch, W.*** (2022) *PyRaysum: Software for modeling ray-theoretical
+body-wave propagation* Zenodo <https://doi.org/10.5281/zenodo.6095748>
+
+## Data sets
+***Bloch, W.***, Schurr, B., Yuan, X., Xu, Q., Zhao, J., Murodkulov, S., Oimuhammadzoda,
+I. (2022) *Earthquake and moment tensor catalogs of the 2015–2017 Pamir earthquake
+sequence.* GFZ Data Services <https://doi.org/10.5880/fidgeo.2022.007>
+
+***Bloch, W.***, Schurr, B., Yuan, X., Ratschbacher, L., Reuter, S., Kufner, S.-K., Qiang, X., Junmeng, Z. (2021) *Seismicity catalog, focal mechanism catalog and P-wave velocity structure between
+Pamir and Tarim.* GFZ Data Services <https://doi.org/10.5880/fidgeo.2021.035>
+
+Yuan, X., Schurr, B., Kufner, S.-K., ***Bloch, W.*** (2018) *Sarez Pamir aftershock seismic network.*
+GFZ Data Services <https://doi.org/10.14470/4U7561589984>
+
+Yuan, X., Schurr, B., Bloch, W., Xu, Q., Zhao, J. (2018) *East Pamir seismic network* GFZ Data
+Services <https://doi.org/10.14470/3U7560589977>
+
+Wigger, P., Salazar, P., Kummerow, J., ***Bloch, W.***, Asch, G., Shapiro, S. (2016)
+*West–Fissure- and Atacama-Fault seismic network.* GFZ Data Services
+<https://doi.org/10.14470/3S7550699980>
+
+Salazar, P., Wigger, P., ***Bloch, W.***, Asch, G., Shapiro, S. A., and Kummerow, J.
+(2013) *MEJIPE seismic network.*  International Federation of Digital Seismograph Networks
+<https://doi.org/10.7914/SN/8G 2013>
