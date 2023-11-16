@@ -94,7 +94,7 @@ fa-2xs"></i></sup>](https://doi.org/10.5880/fidgeo.2022.007)
 ### Subduction processes
 Subduction zones form beautiful landscapes around the so-called Ring of Fire that
 surrounds the Pacific Ocean. They are defined as the geographic regions where the oceanic
-tectonic plate is drawn beneath the continental plate by plate tectonics. The recycling
+tectonic plates are drawn beneath the continents by plate tectonics. The recycling
 of rock, water, sediments and organic matter into Earth's mantle and their return to the
 surface trough volcanism is a fascinating process that helps making Earth habitable in
 countless ways.
