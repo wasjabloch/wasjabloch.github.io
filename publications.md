@@ -70,6 +70,10 @@ Audet, P., and ***Bloch, W.*** (2022) *PyRaysum: Software for modeling ray-theor
 body-wave propagation* Zenodo <https://doi.org/10.5281/zenodo.6095748>
 
 ## Data sets
+***Bloch, W.***, Bostock, M. G., Audet, P. (2023) *Forearc on-shore receiver functions,
+station subsurface models, and fitted slab model for Cascadia (North America)*. GFZ Data
+Services. <https://doi.org/10.5880/fidgeo.2023.033>
+
 ***Bloch, W.***, Schurr, B., Yuan, X., Xu, Q., Zhao, J., Murodkulov, S., Oimuhammadzoda,
 I. (2022) *Earthquake and moment tensor catalogs of the 2015–2017 Pamir earthquake
 sequence.* GFZ Data Services <https://doi.org/10.5880/fidgeo.2022.007>
