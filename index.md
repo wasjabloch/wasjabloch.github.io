@@ -11,12 +11,13 @@ header:
 ---
 <script src="https://kit.fontawesome.com/ebdc698a08.js" crossorigin="anonymous"></script>
 
-I am a postdoctoral researcher at GFZ, GeoForschungszentrum Potsdam, investigating fault
-zones, subduction zones and subsurface fluid processes using seismology. My research
-involves detecting and locating earthquakes, computing earthquake magnitudes,
-determining fault plane solutions and moment tensors, receiver function processing,
-calculation of seismic tomographies and software development to learn about earthquakes
-and Earth's interior structure.
+I am a postdoctoral researcher at the NORSAR research facility in Kjeller, Norway. In
+investigate subsurface fluid processes fault zones and subduction zones using
+seismology. My current research revolves around developing a method to determine moment
+tensors of small earthquakes. Previously, I worked on detecting and locating
+earthquakes, computing earthquake magnitudes, determining fault plane solutions and
+moment tensors, receiver function processing, calculation of seismic tomographies and
+software development to learn about earthquakes and Earth's interior structure.
 
 ## Research Portfolio
 
