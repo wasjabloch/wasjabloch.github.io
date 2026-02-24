@@ -6,7 +6,7 @@ classes: wide
 title: "About"
 author_profile: true
 header:
-  image: /assets/san_pedro.JPG
+  image: /assets/heaven.JPG
 
 ---
 <script src="https://kit.fontawesome.com/ebdc698a08.js" crossorigin="anonymous"></script>
