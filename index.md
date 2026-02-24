@@ -21,6 +21,21 @@ developing software to learn about earthquakes and Earth's interior structure.
 
 ## Research Portfolio
 
+### Relative moment tensor method
+
+I continue developing the relative moment tensor method to make it accessible to a wider
+scientific and industrial audience. The seismic moment tensor delivers valuable
+information about the physical source process of a seismic event. It allows to
+distinguish between earthquakes, explosions and volcanic events, constraints the
+orientation of an earthquake rupture, and represents the most accurate estimate of the
+released seismic energy. *Relative* moment tensors rely on less subsurface information 
+than *absolute* moment tensors and can be computed at 2-3 magnitudes lower, increasing
+the number of recoverable moment tensors by 100 - 1000. The project is on active
+development on [*GitHub*<sup><i class="fa-solid fa-arrow-up-right-from-square
+fa-2xs"></i></sup>](https://github.com/wasjabloch/relMT) and is [extensively
+documented<sup><i class="fa-solid fa-arrow-up-right-from-square fa-2xs"></i></sup>].
+https://relmt.readthedocs.io/en/latest/index.html)
+
 ### Structural imaging and modeling
 
 ![image-left](/assets/fig_interfacemaps_edit.png){: .align-left style="width: 30%;"}
