@@ -36,6 +36,8 @@ fa-2xs"></i></sup>](https://github.com/wasjabloch/relMT) and is [extensively
 documented<sup><i class="fa-solid fa-arrow-up-right-from-square fa-2xs"></i></sup>](
 https://relmt.readthedocs.io/en/latest/index.html).
 
+![image-center](/assets/relative_mts.png){:style="width: 100%;"}
+
 ### Structural imaging and modeling
 
 ![image-left](/assets/fig_interfacemaps_edit.png){: .align-left style="width: 30%;"}
