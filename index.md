@@ -33,8 +33,8 @@ than *absolute* moment tensors and can be computed at 2-3 magnitudes lower, incr
 the number of recoverable moment tensors by 100 - 1000. The project is on active
 development on [*GitHub*<sup><i class="fa-solid fa-arrow-up-right-from-square
 fa-2xs"></i></sup>](https://github.com/wasjabloch/relMT) and is [extensively
-documented<sup><i class="fa-solid fa-arrow-up-right-from-square fa-2xs"></i></sup>].
-https://relmt.readthedocs.io/en/latest/index.html)
+documented<sup><i class="fa-solid fa-arrow-up-right-from-square fa-2xs"></i></sup>](
+https://relmt.readthedocs.io/en/latest/index.html).
 
 ### Structural imaging and modeling
 
